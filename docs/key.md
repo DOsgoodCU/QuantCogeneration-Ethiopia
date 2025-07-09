@@ -16,9 +16,9 @@ key design choices have been incorrect because the co-design was not adequately 
 
 ## Real world performance
 
-This strategy has been successful at large scales for low cost, in thousands of villages across dozens of countries. For example, the government of Zambia performed this exercise across the entire country, with most of the site visits completed within a few weeks.
+This strategy has been successful at large scales for low cost, in thousands of villages across dozens of countries. For example, in a project we worked on for WFP the government of Zambia performed this exercise across the entire country, with most of the site visits completed within a few weeks.
 
-**We will work through an example for a satellite model of drought in Ethiopia, used for an insurance index.**
+**We will work through an example for a satellite model of drought in Ethiopia, used for the WFP R4 insurance index.**
 
 ![](assets/images/Zambiacrowdmap.png)
 

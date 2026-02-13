@@ -33,7 +33,8 @@ We could therefore select the design that focuses on the decads 10-17, based on 
 
 Ironically, this is not so different from what the actual farmers themselves said when we asked the same question in the WFP led R4 project (in person, because it was a few years ago). 
 In the actual R4 insurance project, many farmers wanted an index that was like the one in decads 6-17, because they wanted to de-risk loans for long cycle crops. 
-The choice of early season vs later season start generally depended on the village, and was closely driven by how big the early seasonal "bump" in rainfall was. Across all of the villages polled that year, 57% chose the window that covered the later start, and 43% chose the earlier start window.  
+The choice of early season vs later season start generally depended on the village, and was closely driven by how big the early seasonal "bump" in rainfall was. Across all of the villages polled that year, 57% chose the window that covered the later start, and 43% chose the earlier start window.  The red dots in the map at the bottom of this page are the villages that voted for the earlier start, and the blue dots are the ones who selected the delayed timing.
 
 Having farmers provide low cost ongoing input like this, iterating over the years their situations change that leads to meaningful impacts and sustained demand for these villages over more than a decade.
 
+![](amharaprefredearlybluelate.png)

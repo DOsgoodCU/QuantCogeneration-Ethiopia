@@ -9,9 +9,11 @@ We will use the timing of the season in decads, a common form for agronomists.  
 
 The quantitative focus group in Genete said that the key times they were vulnerable to rainfall were during flowering (late July and September) and preparation and planting, beginning in March and continuing into early July.
 
-Below you can see the Rainfall climatology for the village, is the average rainfall during the year over their reported cropping cycle. The most vulnerable times of year initially reported are higlighted in blue for the beginning of the year, and orange for the flowering, later in the year.  
+Below you can see the Rainfall climatology for the village, that is, the average rainfall during the year over their reported cropping cycle.  You can see bumps in the climatology plot during the two seasons common in this part of Ethiopia, the earlier Belg, and the later Kiremt seasons.  In some places these happen a long time apart, but on others they touch, or even merge, and the farmers make cropping choices for two seasons, or one long season depending on what seasonal timing they experience.
 
-To provide ain dditional verification source, green bar reflects the timing that the vegetation 
+The most vulnerable times of year initially reported are higlighted in blue for the beginning of the year, and orange for the flowering, later in the year.  
+
+To provide an additional verification source, green bar reflects the timing that the vegetation 
 would change color to reflect seasonal end, after the rainfall in the time highlighted in orange had passed, and the landscape had time to respond.
 
 There was intense discussion about if the most important start of the season was decad 7 or 18.

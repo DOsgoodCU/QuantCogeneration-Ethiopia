@@ -22,12 +22,13 @@ You can see that the early part of the season only hits one of the problem years
 
 ![](Bangladeshlate.png)
 
-In that figure, you can see that the later "damaging flooding" sums of rainfall have noticable deficits in 4 out of the 5 farmer recollected years. There are also lots of "false alarms, of small deficits in other years, which is usually bad for an index, but at this stage of the design, with simple sums, this gives us vaulable insights.  A helpful sign is that the biggest years have pretty much the worst deficits. In the actual project, the partners changed the metric from total rainfall to percent of area innundated, which addressed the many small false payouts issue.
+In that figure, you can see that the later "damaging flooding" sums of rainfall have noticable floods in 4 out of the 5 farmer recollected years. There are also lots of "false alarms, of small floods in other years, which is usually bad for an index, but at this stage of the design, with simple sums, this gives us vaulable insights.  A helpful sign is that the biggest years have pretty much the worst floods. In the actual project, the partners changed the metric from average over the time period to something more focused on the maximum during the period, which addressed the many small false payouts issue.
 
-Have fun playing with the sliders in the tool below.  Keep in mind that the farmer seasonal information is only available for a subset of the regions from this exercise, and that the rainfall totals used in the tool at this stage are not the percent of land innundated that was used for the recommended index.  Note the sensitivities to the timings, and also note that answers are different for different regions.  
+Have fun playing with the sliders in the tool below.  Keep in mind that the farmer seasonal information is only available for a subset of the regions from this exercise, and that the average fractions of area flooded used in the tool at this stage are maximums that were used for the index.  Note the sensitivities to the timings, and also note that answers are different for different regions.  
 
 Thats why its important to check!
 
+**If the box below is blank, paste https://columbia-desdr.github.io/Sliders-bangladesh/config into an incognito window**
 <div style="text-align: center; margin-top: 10px;">
     <iframe id="resizableFrame"
         src="https://columbia-desdr.github.io/Sliders-bangladesh/config"

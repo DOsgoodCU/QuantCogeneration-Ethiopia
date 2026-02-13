@@ -26,3 +26,4 @@ These tools are flexible for different cogeneration challenges, and they are ope
 
 ![](assets/images/84vs02.png)
 
+This tool is based upon work supported by the National Science Foundation under Grant No. 2103794. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

@@ -5,6 +5,8 @@
 Information from large scale co-design can include a lot of noise.  
 It is necessary to have a strategy that can filter the truth from the noise.
 
+![](Zambiacrowdmapsmall.png)
+
 ## Key components
 
 We need two components for this approach to quantitative client codesign
@@ -18,7 +20,9 @@ key design choices have been incorrect because the co-design was not adequately 
 
 This strategy has been successful at large scales for low cost, in thousands of villages across dozens of countries. For example, in a project we worked on for WFP the government of Zambia performed this exercise across the entire country, with most of the site visits completed within a few weeks.
 
-**We will work through an example for a satellite model of drought in Ethiopia, used for the WFP R4 insurance index.**
+**We will work through an example for a satellite model of drought in Ethiopia, used for the WFP R4 insurance index. We will discuss the part of the project that was in the Amhara Region in the map below**
 
-![](assets/images/Zambiacrowdmap.png)
+![](amharavillages.png)
+
+
 

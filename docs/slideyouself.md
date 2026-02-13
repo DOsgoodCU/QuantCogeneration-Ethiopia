@@ -14,10 +14,18 @@ Do you have a new timing to verify with farmers?
 
 Click on the tool below to explore these 
 
+**IF THE BOX BELOW IS BLANK, OPEN AN INCOGNITO BROWSER AND PASTE:**
+
+**https://columbia-desdr.github.io/Sliders-ethiopia/config** 
+
+And note that it may take a few minutes to load because it downloads everything in advance in order to keep functioning if connectivity is lost.
+
 <div style="text-align: center; margin-top: 10px;">
     <iframe id="resizableFrame" 
         src="https://columbia-desdr.github.io/Sliders-ethiopia/config" 
         width="1200" height="1300" 
         style="border:1px solid black; transition: all 0.3s ease;"></iframe>
 </div>
+
+This tool is based upon work supported by the National Science Foundation under Grant No. 2103794. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
